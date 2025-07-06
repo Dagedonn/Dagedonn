@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi i'm Gbenga!
+A data analyst in training
+learning sql | building projects on github
+
 
 <!--
 **Dagedonn/Dagedonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
