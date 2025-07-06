@@ -1,7 +1,7 @@
 ## Hi i'm Gbenga!
 
 - A data analyst in training
-learning sql | building projects on github
+- learning sql | building projects on github
 
 
 <!--
