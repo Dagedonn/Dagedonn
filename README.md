@@ -1,7 +1,12 @@
-## Hi i'm Gbenga!
+# 👋 Hi, I'm Gbenga
 
-- A data analyst in training
-- learning sql | building projects on github
+I'm currently learning SQL and Data Analysis. Here's one of my first projects:
+
+## 📦 Supermarket Sales Database (Beginner SQL Project)
+A simple database I built to practice creating tables, inserting data, and defining relationships — without joins.
+
+👉 [View the project here (https://github.com/Dagedonn/supermarket-sql-db)
+
 
 
 <!--
