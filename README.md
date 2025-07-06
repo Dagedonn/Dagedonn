@@ -5,7 +5,7 @@ I'm currently learning SQL and Data Analysis. Here's one of my first projects:
 ## 📦 Supermarket Sales Database (Beginner SQL Project)
 A simple database I built to practice creating tables, inserting data, and defining relationships 
 
-👉 [View the project here (https://github.com/Dagedonn/supermarket-sql-db)
+👉 View the project here (https://github.com/Dagedonn/supermarket_sql-db
 
 
 
