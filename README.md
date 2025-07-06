@@ -1,5 +1,6 @@
 ## Hi i'm Gbenga!
-A data analyst in training
+
+- A data analyst in training
 learning sql | building projects on github
 
 
