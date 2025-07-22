@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Gbenga
-
+# welcome to my profile
+# about me
 I'm a 400-level Statistics student at the Federal University of Technology, Akure (FUTA).
 📊 I’m passionate about using data to solve real-world problems and currently building my skills in data analysis and machine learning.
 
-• what I'm working on 
+# interests for now
 ° SQL – querying data, DDL, DML
 
 ° Excel – advanced formulas, pivot tables
