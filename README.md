@@ -2,15 +2,18 @@
 
 I'm a 400-level Statistics student at the Federal University of Technology, Akure (FUTA).
 📊 I’m passionate about using data to solve real-world problems and currently building my skills in data analysis and machine learning.
-What I’m Learning Right Now
-SQL – querying data, DDL, DML
 
-Excel – advanced formulas, pivot tables
+• what I'm working on 
+° SQL – querying data, DDL, DML
 
-Python – for data analysis and automation
-power bi - creating dashboards
+° Excel – advanced formulas, pivot tables
 
-Foundations of Data Science – exploring real-world datasets
+° Python – for data analysis and automation
+° power bi - creating dashboards
+
+° Foundations of Data Science – exploring real-world datasets
+
+
 
 I'm currently learning SQL and Data Analysis. Here's one of my first projects:
 
