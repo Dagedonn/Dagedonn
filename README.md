@@ -10,13 +10,14 @@ I'm a 400-level Statistics student at the Federal University of Technology, Akur
 ° Excel – advanced formulas, pivot tables
 
 ° Python – for data analysis and automation
+
 ° power bi - creating dashboards
 
 ° Foundations of Data Science – exploring real-world datasets
 
 
 
-I'm currently learning SQL and Data Analysis. Here's one of my first projects:
+I'm currently learning SQL.  Here's one of my first projects:
 
 ## 📦 Supermarket Sales Database (Beginner SQL Project)
 A simple database I built to practice creating tables, inserting data, and defining relationships 
