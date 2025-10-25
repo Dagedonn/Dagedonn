@@ -1,12 +1,5 @@
-
-<p align="center">
-  <b><i>*HI, I'M GBENGA </i></b>  
-</p># 👋 **HI, I'm GBENGA**
+👋 **HI, I'm GBENGA**
 # 🌍`WELCOME TO MY DATA WORLD`
-
-<p align="center">
-  <b><i>📊 Welcome to my Data Portfolio</i></b>  
-</p>
 
 #  ***ABOUT ME***
 I'm a 400-level Statistics student at the Federal University of Technology, Akure (FUTA).
@@ -25,7 +18,9 @@ I'm a 400-level Statistics student at the Federal University of Technology, Akur
 ° Foundations of Data Science – exploring real-world datasets
 
 
-
+<p align="center">
+  <b><i>📊 Welcome to my Data Portfolio</i></b>  
+</p>
 
 . 🚀  **HERE'S ONE OF MY FIRST PROJECTS**
 # 🧾 Sales Management SQL Project
