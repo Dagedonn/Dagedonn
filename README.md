@@ -17,6 +17,7 @@ I'm a 400-level Statistics student at the Federal University of Technology, Akur
 
 
 .  Here's one of my first projects:
+https://github.com/Dagedonn/Sales-Management-DB
 
 
 
