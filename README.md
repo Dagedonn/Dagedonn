@@ -16,7 +16,9 @@ I'm a 400-level Statistics student at the Federal University of Technology, Akur
 ° Foundations of Data Science – exploring real-world datasets
 
 
-.  Here's one of my first projects:
+
+
+.  **Here's one of my first projects:**
 # 🧾 Sales Management SQL Project
 https://github.com/Dagedonn/Sales-Management-DB/tree/main/sales%20management%20database
 
