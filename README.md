@@ -19,7 +19,7 @@ I'm a 500-level Statistics student at the Federal University of Technology, Akur
 
 
 <p align="center">
-  <b><i>📊 my Data Portfolio</i></b>  
+  <b><i>📊 MY DATA PORTFOLIO</i></b>  
 </p>
 
 . 🚀  HERE'S ONE OF MY FIRST PROJECTS
