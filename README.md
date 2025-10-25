@@ -1,11 +1,11 @@
 # 👋 HI, I'm GBENGA
-# WELCOME TO MY PROFILE 
-# ABOUT ME
+# 🙌🌍WELCOME TO MY PROFILE 
+#  ABOUT ME
 I'm a 400-level Statistics student at the Federal University of Technology, Akure (FUTA).
 📊 I’m passionate about using data to solve real-world problems and currently building my skills in data analysis and machine learning.
 ⭐ *Fun fact:* I’m on a mission to turn data into clarity and creativity!
 
-#  🧠 INTERESTS FOR NOW
+#  🎯 INTERESTS FOR NOW
 ° SQL – querying data, DDL, DML
 
 ° Excel – advanced formulas, pivot tables
@@ -19,7 +19,7 @@ I'm a 400-level Statistics student at the Federal University of Technology, Akur
 
 
 
-. 🧠 **HERE'S ONE OF MY FIRST PROJECTS**
+. 🚀  **HERE'S ONE OF MY FIRST PROJECTS**
 # 🧾 Sales Management SQL Project
 💾 https://github.com/Dagedonn/Sales-Management-DB/tree/main/sales%20management%20database
 
