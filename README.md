@@ -16,13 +16,9 @@ I'm a 400-level Statistics student at the Federal University of Technology, Akur
 ° Foundations of Data Science – exploring real-world datasets
 
 
+.  Here's one of my first projects:
 
-I'm currently learning SQL.  Here's one of my first projects:
 
-## 📦 Supermarket Sales Database (Beginner SQL Project)
-A simple database I built to practice creating tables, inserting data, and defining relationships 
-
-👉 View the project here (https://github.com/Dagedonn/supermarket_sql-db
 
 
 
