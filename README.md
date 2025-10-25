@@ -7,15 +7,14 @@ I'm a 500-level Statistics student at the Federal University of Technology, Akur
 ⭐ *Fun fact:* I’m on a mission to turn data into clarity and creativity!
 
 #  🎯 SKILLSET
-° SQL – querying data, DDL, DML
+° SQL – Skilled in writing efficient SQL queries for data extraction, transformation, and analysis. Experienced with database design, data manipulation (DML), and filtering data using logical and comparison operators to uncover insights from structured datasets.
 
-° Excel – advanced formulas, pivot tables
+° Excel – Proficient in using Excel for data cleaning, analysis, and reporting. Comfortable with formulas, pivot tables, and visual dashboards to summarize and communicate key findings clearly.
 
-° Python – for data analysis and automation
+° Python – Learning and applying Python for data analysis and automation using libraries such as Pandas, NumPy, and Matplotlib. Focused on data cleaning, visualization, and building beginner-level predictive models with Scikit-learn.
 
-° power bi - creating dashboards
+° power bi -  creating interactive dashboards and visual reports. Interested in transforming raw data into dynamic, insight-driven visuals that support business decisions.
 
-° Foundations of Data Science – exploring real-world datasets
 
 
 <p align="center">
