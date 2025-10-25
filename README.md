@@ -1,4 +1,4 @@
-👋 **HI, I'm GBENGA**
+#👋 **HI, I'm GBENGA**
 # 🌍`WELCOME TO MY DATA WORLD`
 
 #  ***ABOUT ME***
