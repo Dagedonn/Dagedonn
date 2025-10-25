@@ -22,7 +22,7 @@ I'm a 500-level Statistics student at the Federal University of Technology, Akur
   <b><i>📊 MY DATA PORTFOLIO</i></b>  
 </p>
 
-. 🚀  HERE'S ONE OF MY FIRST PROJECTS
+. 🚀  Here are my projects
 # 🧾 Sales Management SQL Project
 💾 https://github.com/Dagedonn/Sales-Management-DB/tree/main/sales%20management%20database
 
