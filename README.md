@@ -1,6 +1,9 @@
-#                           👋 **HI, I'm GBENGA**
+
+<p align="center">
+  <b><i>*HI, I'M GBENGA </i></b>  
+</p># 👋 **HI, I'm GBENGA**
 # 🌍`WELCOME TO MY DATA WORLD`
-<p style="font-size:18px; font-weight:bold;">Welcome to my Data World 🌍</p>
+
 <p align="center">
   <b><i>📊 Welcome to my Data Portfolio</i></b>  
 </p>
