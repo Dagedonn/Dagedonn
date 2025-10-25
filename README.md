@@ -6,7 +6,7 @@ I'm a 500-level Statistics student at the Federal University of Technology, Akur
 📊 I’m passionate about using data to solve real-world problems and currently building my skills in data analysis and machine learning.
 ⭐ *Fun fact:* I’m on a mission to turn data into clarity and creativity!
 
-#  🎯 INTERESTS FOR NOW
+#  🎯 SKILLSET
 ° SQL – querying data, DDL, DML
 
 ° Excel – advanced formulas, pivot tables
