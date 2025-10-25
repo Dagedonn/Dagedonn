@@ -1,4 +1,4 @@
-# 👋 **HI, I'm GBENGA**
+#👋 **HI, I'm GBENGA**
 # 🌍`WELCOME TO MY DATA WORLD`
 
 ## ***ABOUT ME***                  
@@ -6,7 +6,7 @@ I'm a 500-level Statistics student at the Federal University of Technology, Akur
 📊 I’m passionate about using data to solve real-world problems and currently building my skills in data analysis and machine learning.
 ⭐ *Fun fact:* I’m on a mission to turn data into clarity and creativity!
 
-##  🎯 SKILLSET
+## 🎯 SKILLSET
 ° SQL – Skilled in writing efficient SQL queries for data extraction, transformation, and analysis. Experienced with database design, data manipulation (DML), and filtering data using logical and comparison operators to uncover insights from structured datasets.
 
 ° Excel – Proficient in using Excel for data cleaning, analysis, and reporting. Comfortable with formulas, pivot tables, and visual dashboards to summarize and communicate key findings clearly.
