@@ -1,6 +1,6 @@
-# 👋 HI, I'm GBENGA
-# 🌍WELCOME TO MY PROFILE 
-#  ABOUT ME
+# 👋 ***HI, I'm GBENGA***
+# 🌍**WELCOME TO MY PROFILE** 
+#  ***ABOUT ME***
 I'm a 400-level Statistics student at the Federal University of Technology, Akure (FUTA).
 📊 I’m passionate about using data to solve real-world problems and currently building my skills in data analysis and machine learning.
 ⭐ *Fun fact:* I’m on a mission to turn data into clarity and creativity!
