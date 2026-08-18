@@ -1,13 +1,4 @@
-## 👋 **HI, I'm GBENGA**
-# 🌍`WELCOME TO MY DATA WORLD`
 
-## ***ABOUT ME***                  
-I'm a recent statistics graduate of the Federal University of Technology, Akure (FUTA).
-📊 I’m passionate about using data to solve real-world problems with my skills in data analysis and machine learning.
- I’m on a mission to turn data into clarity and creativity!
-I am proficent in Excel, SQL and Python, with practical statistical data collection experience from a placement in a government research and statistics department. Currently building out projects in predictive modeling and dashboarding (Power BI) to round out an end-to-end analytics skillset.
-
-Open to Data Analyst roles, especially in health, public sector, or data-driven organizations.
 
 
 <h1 align="center">Hi 👋, I'm Gbenga</h1>
@@ -21,8 +12,8 @@ Open to Data Analyst roles, especially in health, public sector, or data-driven 
 
 ### 🔬 About Me
 - 🎓 B.Tech Statistics, Federal University of Technology, Akure
-- A data analyst, a data science and machine learning enthusiast
-- internship at the research and statistics department of the Lagos State traffic management authority(LASTMA)from May to October(2025),with practical and statistical experience 
+- A data analyst, a data science and machine learning enthusiast.I’m passionate about using data to solve real-world problems with my skills in data analysis and machine learning.
+- internship at the research and statistics department of the Lagos State traffic management authority(LASTMA) May- October(2025),with practical and statistical experience 
 - 🛠️ : Proficient in SQL, PYTHON,EXCEL
 - 🧠 Currently building: predictive ML models on health data
 - 📫 Reach me: akinsgbenga15@gmail.com
@@ -47,19 +38,6 @@ Open to Data Analyst roles, especially in health, public sector, or data-driven 
 **[Maternal & Child Health Indicators Across Nigerian States](your-repo-link)**
 Applied PCA + K-Means clustering to Nigeria's 2023–2024 DHS survey data (39,050 women, 27,783 children) — reduced 8 health indicators to 3 components (77.35% variance explained) and classified 37 states into 3 distinct health profiles.
 
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dagedonn&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dagedonn&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dagedonn&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
 
 ### 🌐 Connect
 <p align="left">
