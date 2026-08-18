@@ -3,6 +3,12 @@
 
 <h1 align="center">Hi 👋, I'm Gbenga</h1>
 <h3 align="center">Statistics Graduate | Data Analyst | Health & Public Data Analytics</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dagedonn/Dagedonn/main/profile.jpg" width="150" style="border-radius: 50%; border: 3px solid #2E9EF7;" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Gbenga</h1>
+<h3 align="center">Statistics Graduate | Data Analyst | Health & Public Data Analytics</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Turning+messy+data+into+decisions; multivariate+%2B+statistical+analysis+%2B+SQL+%2B+Python;Currently+building+predictive+ML+models" />
