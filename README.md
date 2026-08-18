@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dagedonn/Dagedonn/main/gbenga_profile_photo.jpg" width="150" style="border-radius: 50%; border: 3px solid #2E9EF7;" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Gbenga</h1>
 <h3 align="center">Statistics Graduate | Data Analyst | Health & Public Data Analytics</h3>
