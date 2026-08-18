@@ -13,6 +13,8 @@ Open to Data Analyst roles, especially in health, public sector, or data-driven 
 ## ***📊 MY DATA PORTFOLIO***
 
 . 🚀  Here are my projects:
+# Library Management systems project https://github.com/Dagedonn/-LIBRARY-MANAGEMENT-SYSTEM-PROJECT
+#
 # 🧾 Sales Management SQL Project
 💾 https://github.com/Dagedonn/Sales-Management-DB/tree/main/sales%20management%20database
 
