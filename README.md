@@ -2,19 +2,12 @@
 # 🌍`WELCOME TO MY DATA WORLD`
 
 ## ***ABOUT ME***                  
-I'm a 500-level Statistics student at the Federal University of Technology, Akure (FUTA).
-📊 I’m passionate about using data to solve real-world problems and currently building my skills in data analysis and machine learning.
-⭐ *Fun fact:* I’m on a mission to turn data into clarity and creativity!
+I'm recent statistics graduate of the Federal University of Technology, Akure (FUTA).
+📊 I’m passionate about using data to solve real-world problems with my skills in data analysis and machine learning.
+ I’m on a mission to turn data into clarity and creativity!
+proficent in Excel, SQL and Python, with practical statistical data collection experience from a placement in a government research and statistics department. Currently building out projects in predictive modeling and dashboarding (Power BI) to round out an end-to-end analytics skillset.
 
-## ***🎯 SKILLSET***
-° SQL – Skilled in writing efficient SQL queries for data extraction, transformation, and analysis. Experienced with database design, data manipulation (DML), and filtering data using logical and comparison operators to uncover insights from structured datasets.
-
-° Excel – Proficient in using Excel for data cleaning, analysis, and reporting. Comfortable with formulas, pivot tables, and visual dashboards to summarize and communicate key findings clearly.
-
-° Python – Learning and applying Python for data analysis and automation using libraries such as Pandas, NumPy, and Matplotlib. Focused on data cleaning, visualization, and building beginner-level predictive models with Scikit-learn.
-
-° power bi -  creating interactive dashboards and visual reports. Interested in transforming raw data into dynamic, insight-driven visuals that support business decisions.
-
+Open to Data Analyst roles, especially in health, public sector, or data-driven organizations.
 
 
 ## ***📊 MY DATA PORTFOLIO***
