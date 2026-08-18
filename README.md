@@ -10,28 +10,20 @@ I am proficent in Excel, SQL and Python, with practical statistical data collect
 Open to Data Analyst roles, especially in health, public sector, or data-driven organizations.
 
 
-## ***📊 MY DATA PORTFOLIO***
-
-. 🚀  Here are my projects:
-# Library Management systems project https://github.com/Dagedonn/-LIBRARY-MANAGEMENT-SYSTEM-PROJECT
-# Retail sales project https://github.com/Dagedonn/SQL-RETAIL-SALES-PROJECT
-# Netflix SQL project 
-# 🧾 Sales Management SQL Project
-💾 https://github.com/Dagedonn/Sales-Management-DB/tree/main/sales%20management%20database
-
 <h1 align="center">Hi 👋, I'm Gbenga</h1>
 <h3 align="center">Statistics Graduate | Data Analyst | Health & Public Data Analytics</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Turning+messy+data+into+decisions;PCA+%2B+K-Means+%2B+SQL+%2B+Python;Currently+building+predictive+ML+models" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Turning+messy+data+into+decisions; multivariate+%2B+statistical+analysis+%2B+SQL+%2B+Python;Currently+building+predictive+ML+models" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🔬 About Me
 - 🎓 B.Tech Statistics, Federal University of Technology, Akure
-- 📊 Applied PCA + K-Means clustering to Nigeria's national health survey (39,000+ records)
-- 🛠️ Currently learning: Power BI
+- A data analyst, a data science and machine learning enthusiast
+- internship at the research and statistics department of the Lagos State traffic management authority(LASTMA)from May to October(2025),with practical and statistical experience 
+- 🛠️ : Proficient in SQL, PYTHON,EXCEL
 - 🧠 Currently building: predictive ML models on health data
 - 📫 Reach me: akinsgbenga15@gmail.com
 
