@@ -13,7 +13,7 @@ r
 
 ### 🔬 About Me
 - 🎓 B.Tech Statistics, Federal University of Technology, Akure
-- A data analyst, a data science and machine learning enthusiast.I’m passionate about using data to solve real-world problems with my skills in data analysis and machine learning.
+- data analyst, data science and machine learning enthusiast, passionate about using data to solve real-world problems with my skillset.
 - internship at the research and statistics department of the Lagos State traffic management authority(LASTMA) May- October(2025),with practical and statistical experience 
 - 🛠️ : Proficient in SQL, PYTHON,EXCEL
 - 🧠 Currently building: predictive ML models on health data
