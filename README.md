@@ -91,14 +91,6 @@ Analysed retail sales data using **SQL** to answer business questions and uncove
 A database project demonstrating **SQL skills, database design, data querying, and sales analysis**.
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dagedonn&show_icons=true&theme=transparent&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dagedonn&layout=compact&theme=transparent&hide_border=true" height="180" />
-</p>
-
 ---
 
 ## 🌐 Let's Connect
