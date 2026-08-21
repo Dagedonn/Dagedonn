@@ -2,9 +2,6 @@
 
 <h3 align="center">B.Tech Statistics Graduate | Data Analyst | Health & Public Data Analytics</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dagedonn/Dagedonn/main/gbenga_profile_photo.jpg" width="160" style="border-radius: 50%;" alt="Gbenga Akinsowon" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Turning+messy+data+into+meaningful+insights;Statistical+Analysis+%7C+SQL+%7C+Python+%7C+Machine+Learning;Exploring+Health+and+Public+Data+Analytics" />
