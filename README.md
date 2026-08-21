@@ -39,7 +39,8 @@ r
 **https://github.com/Dagedonn/Marternal-Child-Health-Nigeria)** Maternal and child health disparities
 Applied PCA + K-Means clustering to Nigeria's 2023–2024 DHS survey data (39,050 women, 27,783 children) — reduced 8 health indicators to 3 components (77.35% variance explained) and classified 37 states into 3 distinct health profiles.
 
-**https://github.com/Dagedonn/-LIBRARY-MANAGEMENT-SYSTEM-PROJECT** library management systems
+## Other projects
+**https://github.com/Dagedonn/-LIBRARY-MANAGEMENT-SYSTEM-PROJECT** **library management systems**
 
 **https://github.com/Dagedonn/NETFLIX-SQL-PROJECT** Netflix project
 
